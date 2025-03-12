@@ -10,7 +10,7 @@
 body {
   background-image: url("../media/blue.jpeg");
   font-family: 'Tangerine', serif;
-  background-color: #a7b4d9
+  background-color: #a7b4d9;
   line-height: 1.5;
   margin: 0;
   padding: 0;	
@@ -21,21 +21,24 @@ body {
 }
 
 #header {
-  position: absolute;
-  left: 420px;
-  top:5px;
-  font-family: 'Tangerine', serif;
-  font-size: 48px;
-  color: #a7b4d9
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
 }
 
 #header h1 {
 }
 
 #header ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
 }
 
 #header ul li {
+  display: inline;
+  margin-right: 20px;
 }
 
 #header ul li a {
