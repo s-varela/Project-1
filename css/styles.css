@@ -42,7 +42,14 @@ body {
 }
 
 #header ul li a {
-  
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem; 
+}
+
+}
+#header ul li a:hover {
+  text-decoration: underline;
 }
 
 #aboutme {
