@@ -1,0 +1,70 @@
+body {
+	background-image: url("../images/blue.jpeg");	
+}
+
+#page-wrapper {
+  
+}
+
+#header {
+  position: absolute;
+  left: 420px;
+  top:5px;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  color: #a7b4d9
+}
+
+#header h1 {
+}
+
+#header ul {
+}
+
+#header ul li {
+}
+
+#header ul li a {
+  
+}
+
+#aboutme {
+}
+
+#aboutme h2 {
+}
+
+#aboutme p {
+  
+}
+
+#aboutme img {
+}
+
+/* Designs Section */
+#designs {
+}
+
+#designs h3 {
+}
+
+#designs img {
+  
+}
+
+#designs a {
+}
+
+#designs p {
+}
+
+#supermodel {
+}
+
+#supermodel iframe {
+  
+}
+
+#supermodel p {
+
+}
